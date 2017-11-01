@@ -21,28 +21,24 @@ He has contributed to several large research programs, including:
 Tony is currently studying towards a PhD, studying convective hazards at the [ARC Centre of Excellence for Climate Extremes](http://www.climateextremes.org.au/) through the [School of Earth Sciences at The University of Melbourne](http://earthsci.unimelb.edu.au/). His research is being carried out under the co-supervision of [A/Prof Todd Lane](https://www.climatescience.org.au/staff/profile/tlane) and [A/Prof Jason Evans](http://www.ccrc.unsw.edu.au/ccrc-team/academic-research/jason-evans) at the [Climate Change Research Centre UNSW](http://www.ccrc.unsw.edu.au/) in Sydney.
 
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Climate Extremes",
-    "Convective Hazards",
-    "Convective-Permitting Modelling",
-    "Heavy Rainfall",
-    "Tropical Cyclones",
-    "Climate Projections",
-    "Polar Sea Ice"
-  ]
+# Academic Interests
+
+    Climate Extremes
+    Convective Hazards
+    Convective-Permitting Modelling
+    Heavy Rainfall
+    Tropical Cyclones
+    Climate Projections
+    Polar Sea Ice
 
 
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "Currently: PhD in Meteorology - Convective Hazards"
-  institution = "University of Melbourne / ARC Centre of Excellence for Climate Extremes"
-  year = "2017- (part time)"
+# Qualifications
 
-[[education.courses]]
-  course = "B.Sc. (Hons) in Meteorology"
-  institution = "University of Melbourne"
-  year = 2003
+*Currently:*
+PhD in Meteorology - Convective Hazards
+University of Melbourne / ARC Centre of Excellence for Climate Extremes
+
+*2003*
+B.Sc. (Hons) in Meteorology
+University of Melbourne
  
-
