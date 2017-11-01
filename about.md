@@ -23,22 +23,27 @@ Tony is currently studying towards a PhD, studying convective hazards at the [AR
 
 # Academic Interests
 
-**Climate Extremes
-Convective Hazards
-Convective-Permitting Modelling
-Heavy Rainfall
-Tropical Cyclones
-Climate Projections
+**Climate Extremes -
+Convective Hazards -
+Convective-Permitting Modelling -
+Heavy Rainfall -
+Tropical Cyclones -
+Climate Projections -
 Polar Sea Ice**
 
 
 # Qualifications
 
 *Currently:*
+
 **PhD in Meteorology - Convective Hazards**
+
 University of Melbourne / ARC Centre of Excellence for Climate Extremes
 
+
 *2003*
+
 **B.Sc. (Hons) in Meteorology**
+
 University of Melbourne
  
