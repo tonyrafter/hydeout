@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Tony Rafter
+title:            Tony RAFTER
 tagline:          ''
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Profile, Posts and Practice Pages - Past President <a href="http://parkvillecricket.com" target="_blank">Parkville District Cricket Club</a>'
 url:              https://tonyrafter.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
